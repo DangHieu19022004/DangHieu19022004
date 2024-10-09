@@ -18,6 +18,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="dotnet" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/elasticsearch-282C34?logo=elasticsearch&logoColor=005571" alt="elasticsearch logo" title="elasticsearch" height="25" /></span>
