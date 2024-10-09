@@ -91,7 +91,7 @@
 <br>
 <p align="left">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DangHieu19022004&label=Profile%20Views&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=DangHieu19022004&label=Profile%20Views&color=0&icon=0&pretty=true" />
   </a>
 </p>
 
