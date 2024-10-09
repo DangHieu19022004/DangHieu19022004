@@ -72,9 +72,11 @@
 
 <br>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DangHieu19022004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DangHieu19022004&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+  </a>
+</p>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
