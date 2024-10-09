@@ -6,43 +6,43 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-999999?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-999999?logo=cplusplus&logoColor=EF5C55" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=EF5C55" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/python-999999?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/android-999999?logo=android&logoColor=34A853" alt="android logo" title="android" height="25" /></span>
+<span><img src="https://img.shields.io/badge/android-282C34?logo=android&logoColor=34A853" alt="android logo" title="android" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-999999?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-999999?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-999999?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/elasticsearch-999999?logo=elasticsearch&logoColor=005571" alt="elasticsearch logo" title="elasticsearch" height="25" /></span>
+<span><img src="https://img.shields.io/badge/elasticsearch-282C34?logo=elasticsearch&logoColor=005571" alt="elasticsearch logo" title="elasticsearch" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/apachehadoop-999999?logo=apachehadoop&logoColor=66CCFF" alt="apachehadoop logo" title="apachehadoop" height="25" /></span>
+<span><img src="https://img.shields.io/badge/apachehadoop-282C34?logo=apachehadoop&logoColor=66CCFF" alt="apachehadoop logo" title="apachehadoop" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-999999?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-999999?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-999999?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-999999?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-999999?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-999999?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-999999?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-999999?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/figma-999999?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
+<span><img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/postman-999999?logo=postman&logoColor=FF6C37" alt="postman logo" title="postman" height="25" /></span>
+<span><img src="https://img.shields.io/badge/postman-282C34?logo=postman&logoColor=FF6C37" alt="postman logo" title="postman" height="25" /></span>
 &nbsp;
 
 <br>
