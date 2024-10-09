@@ -89,6 +89,13 @@
 </p>
 
 <br>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=DangHieu19022004&label=Profile%20Views&pretty=false" />
+  </a>
+</p>
+
+<br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
