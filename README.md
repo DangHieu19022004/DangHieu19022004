@@ -44,7 +44,7 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align="center">
+<div align="left">
   <div style="display: flex; justify-content: space-between; max-width: 800px;">
     <a href="#" title="DangHieu19022004">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=DangHieu19022004&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
