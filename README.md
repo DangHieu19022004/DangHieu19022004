@@ -18,6 +18,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="laravel logo" title="laravel" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/dotnet-FFFFFF?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="dotnet" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
