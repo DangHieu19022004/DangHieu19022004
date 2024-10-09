@@ -89,7 +89,7 @@
 </p>
 
 <br>
-<p align="center">
+<p align="left">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=DangHieu19022004&label=Profile%20Views&pretty=false" />
   </a>
