@@ -20,21 +20,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/laravel-FFFFFF?logo=laravel&logoColor=FF2D20" alt="laravel logo" title="laravel" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/dotnet-FFFFFF?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="dotnet" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-FFFFFF?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/elasticsearch-FFFFFF?logo=elasticsearch&logoColor=005571" alt="elasticsearch logo" title="elasticsearch" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/apachehadoop-FFFFFF?logo=apachehadoop&logoColor=66CCFF" alt="apachehadoop logo" title="apachehadoop" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-FFFFFF?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
@@ -45,8 +37,6 @@
 <span><img src="https://img.shields.io/badge/Firebase-FFFFFF?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/figma-FFFFFF?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/postman-FFFFFF?logo=postman&logoColor=FF6C37" alt="postman logo" title="postman" height="25" /></span>
 &nbsp;
 
 <br>
